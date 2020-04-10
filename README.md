@@ -1,5 +1,6 @@
 # Walmart Sales Analysis
 
+![Walmart](/Users/nivzz/Desktop/WalmartSaleImages/wallogo.png)
 
 
 ## Overview and Scope
