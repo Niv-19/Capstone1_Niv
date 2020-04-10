@@ -1,7 +1,5 @@
 # Walmart Sales Analysis
 
-![Walmart](/Users/nivzz/Desktop/WalmartSaleImages/wallogo.png)
-
 
 ## Overview and Scope
 One of the leading retail stores in the US, Walmart data has been used to obtain an insight of Weekly Sales at forty-five different locations over the years from January,2010 to December,2012. There are several factors that impact the weekly sales of a store in which Store Location, Holiday Week Markdowns, Fuel Price, Consumer Price Index (CPI) and Unemployment Index are taken into account.
