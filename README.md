@@ -88,6 +88,7 @@ The observed plot is shown below. Obtained p-value is below 0.05 only for the ra
 ![Fuel_Price](WalmartSaleImages/fuel.png)
 
 
+
 ---
 
 ## Conclusion
@@ -105,4 +106,3 @@ Based on all the impact analysis, it is concluded that:<br/>
 > Increase Markdown weeks.<br/>
 > There is an impact of Unemployment Index on sales, so prices and inventory should be changed accordingly.<br/>
 > There is an impact of CPI on sales, markdown weeks should be increased in high CPI times.<br/>
-
