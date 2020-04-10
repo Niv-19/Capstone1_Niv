@@ -10,7 +10,9 @@ Hypothesis Analysis will be used to conclude the impact of above mentioned facto
 ### Sale
 Walmart's monthly sales are analyzed over three years and the plot is shown below. The plot shows overall similar monthly sales across *45* stores except some outliers.
 
-![Monthly](Users/nivzz/practice/Galvanize/Capstone1_Niv/Walmart Sale Images/monthly.png)
+![Monthly_Sales](WalmartSaleImages/monthly.png)
+
+
 
 
 **monthly sale image**
