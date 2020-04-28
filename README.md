@@ -95,15 +95,14 @@ The observed plot is shown below. Obtained p-value is below 0.05 only for the ra
 ## Conclusion
 Based on all the impact analysis, it is concluded that:<br/>
 > Sales change as per the location of the store.<br/>
-> Holiday markdown week sales are highter than non-holiday week sales.<br/>
+> Holiday markdown weeks are more profitable than non-holiday week sales.<br/>
 > There is an impact of Unemployment Index on sales.<br/>
 > There is an impact of CPI on sales.<br/>
-> Fuel impacted sales over the small range.<br/> 
+> Fuel price does not impact the sales.<br/> 
 
 ---
 
 ## Suggestions
 > Relocate stores which are below 60% of highest sales.<br/>
 > Increase Markdown weeks.<br/>
-> There is an impact of Unemployment Index on sales, so prices and inventory should be changed accordingly.<br/>
-> There is an impact of CPI on sales, markdown weeks should be increased in high CPI times.<br/>
+> There is an impact of Unemployment Index and Consumer Price Index on sales, so prices and inventory should be managed accordingly.<br/>
