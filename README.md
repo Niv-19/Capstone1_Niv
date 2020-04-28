@@ -8,7 +8,7 @@ Hypothesis Analysis will be used to conclude the impact of above mentioned facto
 ---
 
 ### Sale
-Walmart's monthly sales are analyzed over three years and the plot is shown below. The plot shows overall similar monthly sales across *45* stores except some outliers.
+Walmart's monthly sales are analyzed over three years and the plot is shown below. The plot shows overall similar monthly sales (normal distribution) across *45* stores except some outliers.
 
 
 ![Monthly_Sale](WalmartSaleImages/monthly.png)
@@ -32,7 +32,7 @@ It is interesting to see how different locations change the sales of the stores.
 ![Sales_per_location](WalmartSaleImages/location.png)
 
 
-Out of all the locations under analysis, *40%* of the stores (18 of 45) have their sales below *60%* of the highest sale obtained by store with store ID *14*. It was interesting to notice that hightest selling store (store ID: 14) also has highest standard deviation from its average weekly sale.<br/>
+Out of all the locations under analysis, *40%* of the stores (18 of 45) have their sales below *60%* of the highest sale obtained by store with store ID *14*. It was interesting to notice that hightest selling store (store ID: 14) also has highest standard deviation from its average weekly sale. Sale is not consistent for that store.<br/>
 
 ---
 
@@ -45,6 +45,11 @@ To have an insight of how holiday markdown week sales do with respect to non-hol
 
 
 It was observed that the average sale of a holiday markdown week is $81,000 more than the average non-holiday week sale. <br/>
+The highest selling holiday weeks in descending order are: <br/>
+* Christmas
+* Thanksgiving
+* Labor Day 
+* Super Bowl
 
 ---
 
