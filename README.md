@@ -83,9 +83,11 @@ The rejection threshold is selected as 0.05. Below is the defined Null Hypothesi
 **H0: There is no impact of fuel price on sales.**<br/>
 **H1: Fuel price impacts sales.**<br/>
 
-The observed plot is shown below. Obtained p-value is way above than the alpha. Therefore, this test **fails to reject Null Hypothesis.** <br/>
+The observed plot is shown below. Obtained p-value is below 0.05 only for the range $2.6/gal to $2.8/gal, a small range. Therefore, this test **fails to reject Null Hypothesis.** <br/>
 
-![Fuel_Price](WalmartSaleImages/Fuel.png)
+![Fuel_Price](WalmartSaleImages/fuel.png)
+
+
 
 
 ---
@@ -93,17 +95,14 @@ The observed plot is shown below. Obtained p-value is way above than the alpha. 
 ## Conclusion
 Based on all the impact analysis, it is concluded that:<br/>
 > Sales change as per the location of the store.<br/>
-> Holiday markdown week sales are highter than non-holiday week sales.<br/>
+> Holiday markdown weeks are more profitable than non-holiday week sales.<br/>
 > There is an impact of Unemployment Index on sales.<br/>
 > There is an impact of CPI on sales.<br/>
-> There is no impact of fuel price on sales.<br/> 
+> Fuel price does not impact the sales.<br/> 
 
 ---
 
 ## Suggestions
 > Relocate stores which are below 60% of highest sales.<br/>
 > Increase Markdown weeks.<br/>
-> There is an impact of Unemployment Index on sales, so prices and inventory should be changed accordingly.<br/>
-> There is an impact of CPI on sales, markdown weeks should be increased in high CPI times.<br/>
-> There is no impact of fuel price. <br/>
-
+> There is an impact of Unemployment Index and Consumer Price Index on sales, so prices and inventory should be managed accordingly.<br/>
