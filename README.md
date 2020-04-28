@@ -90,7 +90,7 @@ The rejection threshold is selected as 0.05. Below is the defined Null Hypothesi
 
 The observed plot is shown below. Obtained p-value is below 0.05 only for the range $2.6/gal to $2.8/gal, a small range. Therefore, this test **fails to reject Null Hypothesis.** <br/>
 
-![Fuel_Price](WalmartSaleImages/fuel.png)
+![Fuel_Price](WalmartSaleImages/Fuel.png)
 
 
 
